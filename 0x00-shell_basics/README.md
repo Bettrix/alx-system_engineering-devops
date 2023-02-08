@@ -16,3 +16,4 @@
 0-lets_move- scrift for moving uppercase letters to specified directory
 101-clean_emacs- script for deleting all emacs files in current working directory
 102-tree- script for creating multiple directories
+103-commas script for thorough listing
