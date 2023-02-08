@@ -7,3 +7,4 @@
 6-firstdirectory- script for making directory and saving to /tmp/
 7-movethatfile- script for migrating a directory
 8-firstdelete- script for deleting a file from a specific directory
+9-firstdirdeletion- script for deleting specified directory
