@@ -8,3 +8,4 @@
 7-movethatfile- script for migrating a directory
 8-firstdelete- script for deleting a file from a specific directory
 9-firstdirdeletion- script for deleting specified directory
+10-back- script for changing directory to previous or parent one
