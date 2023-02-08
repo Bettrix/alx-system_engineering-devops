@@ -17,3 +17,4 @@
 101-clean_emacs- script for deleting all emacs files in current working directory
 102-tree- script for creating multiple directories
 103-commas script for thorough listing
+school.mgc script for magic file to obtain school files with string SCHOOL
