@@ -12,3 +12,4 @@
 11-lists- a script for list files inc hidden ones in current, previor and /boot directories respectively
 12-file_type- script for finding out file type in a specified directory
 13-symbolic_link_ creation
+14-copy_html- script for copying files from working to parent directory excluding files already existing or of new version (.html files)
