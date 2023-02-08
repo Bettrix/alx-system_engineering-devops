@@ -9,3 +9,4 @@
 8-firstdelete- script for deleting a file from a specific directory
 9-firstdirdeletion- script for deleting specified directory
 10-back- script for changing directory to previous or parent one
+11-lists- a script for list files inc hidden ones in current, previor and /boot directories respectively
