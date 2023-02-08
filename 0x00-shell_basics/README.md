@@ -5,3 +5,4 @@
 4-listmorefiles- for listning including hidden files in long format
 5-listfilesdigitonly- script for listing group and user IDs numerically in long format including hidden files
 6-firstdirectory- script for making directory and saving to /tmp/
+7-movethatfile- script for migrating a directory
