@@ -11,3 +11,4 @@
 10-back- script for changing directory to previous or parent one
 11-lists- a script for list files inc hidden ones in current, previor and /boot directories respectively
 12-file_type- script for finding out file type in a specified directory
+13-symbolic_link_ creation
