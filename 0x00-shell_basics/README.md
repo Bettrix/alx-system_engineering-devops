@@ -14,3 +14,4 @@
 13-symbolic_link_ creation
 14-copy_html- script for copying files from working to parent directory excluding files already existing or of new version (.html files)
 0-lets_move- scrift for moving uppercase letters to specified directory
+101-clean_emacs- script for deleting all emacs files in current working directory
