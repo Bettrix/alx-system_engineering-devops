@@ -10,3 +10,4 @@ shell permissions project:
 8-James_Bond- script for changing permissions to only other users hving all rights while the others have none
 9-John_Doe- script for changing permissions to -rwxr-x-wx
 10-mirror_permissions- script for matching permissions in hello file to olleh file regardless of olleh's current mode
+11-directories_permissions- script for adding execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed
