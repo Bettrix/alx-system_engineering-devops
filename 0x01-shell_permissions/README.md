@@ -12,3 +12,4 @@ shell permissions project:
 10-mirror_permissions- script for matching permissions in hello file to olleh file regardless of olleh's current mode
 11-directories_permissions- script for adding execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed
 2-directory_permissions- script for creating a directory called my_dir with permissions 751 in the working directory.
+3-change_group- script for changing the group owner to school for the file hello
