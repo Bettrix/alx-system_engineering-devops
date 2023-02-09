@@ -14,3 +14,4 @@ shell permissions project:
 2-directory_permissions- script for creating a directory called my_dir with permissions 751 in the working directory.
 3-change_group- script for changing the group owner to school for the file hello
 100-change_owner_and_group- script for changing the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+101-symbolic_link_permissions- script for changing he owner and the group owner of _hello to vincent and staff respectively.
