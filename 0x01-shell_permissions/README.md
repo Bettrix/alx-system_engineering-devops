@@ -4,3 +4,4 @@ shell permissions project:
 2-group- script for prints all the groups the current user is part of.
 3-new_owner- script for changing file ownership for the file hello to betty
 4-empty- script for creating empty file hello
+5-execute- script for adding execute permission to the owner of the file hello
