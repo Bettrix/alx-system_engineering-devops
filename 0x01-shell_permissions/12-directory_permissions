@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod o-r ./my_dir   
+sudo chmod o-r mkdir ./my_dir   
