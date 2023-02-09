@@ -13,3 +13,4 @@ shell permissions project:
 11-directories_permissions- script for adding execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed
 2-directory_permissions- script for creating a directory called my_dir with permissions 751 in the working directory.
 3-change_group- script for changing the group owner to school for the file hello
+100-change_owner_and_group- script for changing the owner to vincent and the group owner to staff for all the files and directories in the working directory.
