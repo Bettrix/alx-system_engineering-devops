@@ -3,3 +3,4 @@ shell permissions project:
 1-who_am_i- script for effective username of the current user
 2-group- script for prints all the groups the current user is part of.
 3-new_owner- script for changing file ownership for the file hello to betty
+4-empty- script for creating empty file hello
