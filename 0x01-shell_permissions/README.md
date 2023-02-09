@@ -8,3 +8,4 @@ shell permissions project:
 6-multiple_permissions- script for adding execute permission to the owner and the group owner, and read permission to other users, to the file hello
 7-everybody- script for adding xecution permission to the owner, the group owner and the other users, to the file hello
 8-James_Bond- script for changing permissions to only other users hving all rights while the others have none
+9-John_Doe- script for changing permissions to -rwxr-x-wx
