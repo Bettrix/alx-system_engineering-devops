@@ -2,3 +2,4 @@
 1-confused_smiley- script for displaying a confused smiley "(Ôo)'.
 2-hellofile- script for displaying the content of the /etc/passwd file.
 3-twofiles- script for displaying the content of /etc/passwd and /etc/hosts
+4-lastlines- script for displaying  the last 10 lines of /etc/passwd
