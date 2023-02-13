@@ -1,2 +1,2 @@
 #!/bin/bash
-less ./iacta | -nr $3 
+less ./iacta | -nr $3 head 
