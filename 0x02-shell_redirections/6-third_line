@@ -1,2 +1,2 @@
 #!/bin/bash
-less ./iacta | -nr 3 $NF 
+less ./iacta | -n 3 $NF 
