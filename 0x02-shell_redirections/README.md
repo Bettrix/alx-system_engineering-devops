@@ -9,3 +9,4 @@
 8-cwd_state- script for writing into the file ls_cwd_content the result of the command ls -la
 9-duplicate_last_line- script for duplicating last line of iacta
 10-no_more_js- script for deleting all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
+11-directories- script for counting the number of directories and sub-directories in the current directory.
