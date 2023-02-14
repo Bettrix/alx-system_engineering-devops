@@ -13,3 +13,4 @@
 12-combinations- script for printing all possible combinations of two letters, except oo.
 13-print_float- script for printing a number with two decimal places, followed by a new line.
 100-decimal_to_hexadecimal- script for converting a number from base 10 to base 16.
+101-rot13- script for encoding and decoding text using the rot13 encryption. Assume ASCII.
